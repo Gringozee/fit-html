@@ -1,0 +1,50 @@
+table{
+    background-color: black;
+    color: white;
+    height: 300px;
+    border-radius: 5px;
+
+}
+
+th, td{
+    width: 150px;
+    font-size: 10px;
+
+}
+
+
+td{
+    padding-left: 30px;
+}
+
+.td1{
+    font-size: 20px;
+}
+
+
+button{
+    background-color: black;
+    border: 1px solid palevioletred;
+    color: white;
+    width: 120px;
+    height: 30px;
+    font-size: 10px;
+}
+
+.table{
+    float: left;
+    margin-left: 40px;
+}
+
+.container h1{
+    text-align: center;
+    
+}
+
+body{
+    background-color: plum;
+}
+
+tr:nth-child(odd){
+    background-color: aqua;
+}
